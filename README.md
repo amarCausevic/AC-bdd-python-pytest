@@ -25,6 +25,11 @@ I have used BDD principles to create the scenario with pyTest-BDD framework. Whi
 ##How to run: 
 I have provided PyTestRunner run/debug configuration which you can simply press Run in your pyCharm or other IDE that you prefer.
 
+##Run Example:
+https://github.com/user-attachments/assets/4b8eab86-9bd7-4fe1-be4c-b34e5e2a4dfd
+
+
+
 ##Current status
 Only once scenario was added to this project, more will be on the way:
 ![image](https://github.com/user-attachments/assets/a89e6797-496d-4478-9964-a11603b624db)
